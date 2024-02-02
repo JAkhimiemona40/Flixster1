@@ -38,12 +38,6 @@ GIF created with Kap
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
-I had a really tough time doing to auto layout as I was not familiar of how constaints work with different stacks.
-
 ## License
 
     Copyright 2023 Joshua Akhimiemona
